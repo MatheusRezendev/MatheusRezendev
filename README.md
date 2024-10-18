@@ -34,5 +34,6 @@
   - Estatísticas por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Vetor de desenvolvedor por <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (editado pelo autor)
 
-  <div align="right">Feito com 💙 por <a href="https://github.com/matheusrezende">Matheus Rezende</a>.</div>
+  <div align="right">Bora codar! 💻</div>
 </details>
+
