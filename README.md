@@ -19,10 +19,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheusrezende&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00ADEF&text_color=FFF&border_radius=3&border_color=123456&icon_color=00ADEF&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MatheusRezendev&show_icons=true&theme=dark&icon_color=00ADEF" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRezendev&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=000&title_color=00ADEF&text_color=FFF&border_radius=3&border_color=123456&icon_color=00ADEF" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRezendev&theme=dark&layout=compact" />
     </td>
   </tr>
 </table>
