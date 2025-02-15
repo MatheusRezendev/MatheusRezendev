@@ -8,7 +8,7 @@
 <p align="justify">
     Estudante de Sistemas de Informação e entusiasta nas áreas de backend e dados. Atualmente, estou em transição de carreira para a área de tecnologia, buscando minha primeira oportunidade profissional para me desenvolver como dev.
     <br><br>
-    Estou me aperfeiçoando em <strong>Java</strong> e também estudando <strong>Python, SQL e dados</strong>. No meu tempo livre, gosto de explorar novas tecnologias e trabalhar em projetos práticos.
+    Estou me aperfeiçoando em <strong>Java</strong>. No meu tempo livre, gosto de explorar novas tecnologias e trabalhar em projetos práticos.
 </p>
 
 ### Conecte-se comigo
